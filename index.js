@@ -24,7 +24,7 @@ function dec(n) {
   return n;
 }
 
-function makeInt(n, base) {
+function makeInt(string, base) {
   parseInt(n, 10);
   return n;
 }
